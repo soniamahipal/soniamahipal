@@ -26,6 +26,6 @@ University of Delhi
 
 ## 📫 Connect
 
-📧 Email:soniamahipal029@gmail.com
+📧 Email: [soniamahipal029@gmail.com](mailto:soniamahipal029@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/sonia-mahipal-ba184b412/
+💼 LinkedIn: [Sonia Mahipal](https://www.linkedin.com/in/sonia-mahipal-ba184b412/)
