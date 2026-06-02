@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sonia Mahipal 👋
 
-<!--
-**soniamahipal/soniamahipal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | MIS Analyst
 
-Here are some ideas to get you started:
+Experienced in Data Analysis, SQL, Python, Power BI, and Advanced Excel. Passionate about transforming raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Advanced Excel
+- Data Analysis
+- Dashboard Development
+- MIS Reporting
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Sales Analysis
+Sales trend analysis and KPI dashboard using Python, SQL, and Power BI.
+
+### 🎇 Diwali Sales Analysis
+Customer behavior analysis using EDA and data visualization techniques.
+
+### 👥 HR Analytics Dashboard
+Interactive Power BI dashboard for workforce and HR insights.
+
+## 📫 Connect
+
+- LinkedIn: [Your LinkedIn Link]
+- Email: soniamahipal029@gmail.com
+
+⭐ Turning data into insights and insights into decisions.
