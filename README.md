@@ -1,33 +1,31 @@
 # Hi, I'm Sonia 👋
 
-📊 Data Analyst | MIS Analyst
+Data Analyst with experience in MIS reporting, dashboard creation, and data analysis. I enjoy working with data to identify trends, solve business problems, and support data-driven decision-making.
 
-Experienced in Data Analysis, SQL, Python, Power BI, and Advanced Excel. Passionate about transforming raw data into actionable business insights.
+## 🎓 Education
 
-## 🛠 Skills
+Bachelor of Arts (Hons) – Political Science
+University of Delhi
 
-- SQL
-- Python (Pandas, NumPy)
-- Power BI
-- Advanced Excel
-- Data Analysis
-- Dashboard Development
-- MIS Reporting
+## 💻 Skills
 
-## 📂 Featured Projects
+* SQL
+* Python
+* Power BI
+* Advanced Excel
+* Data Analysis
+* Data Visualization
+* Dashboard Development
+* MIS Reporting
 
-### 🛒 E-Commerce Sales Analysis
-Sales trend analysis and KPI dashboard using Python, SQL, and Power BI.
+## 📊 Projects
 
-### 🪔 Diwali Sales Analysis
-Customer behavior analysis using EDA and data visualization techniques.
-
-###  HR Analytics Dashboard
-Interactive Power BI dashboard for workforce and HR insights.
+* E-Commerce Sales Analysis
+* Diwali Sales Analysis
+* HR Analytics Dashboard
 
 ## 📫 Connect
 
-- LinkedIn: [Your LinkedIn Link]
-- Email: soniamahipal029@gmail.com
+📧 Email:soniamahipal029@gmail.com
 
-⭐ Turning data into insights and insights into decisions.
+💼 LinkedIn: https://www.linkedin.com/in/sonia-mahipal-ba184b412/
