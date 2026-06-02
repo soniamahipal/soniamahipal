@@ -10,7 +10,7 @@ University of Delhi
 ## 💻 Skills
 
 * SQL
-* Python
+* Python(Pandas,Numpy)
 * Power BI
 * Advanced Excel
 * Data Analysis
