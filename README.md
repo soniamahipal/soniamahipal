@@ -1,4 +1,4 @@
-# Hi, I'm Sonia Mahipal 👋
+# Hi, I'm Sonia 👋
 
 📊 Data Analyst | MIS Analyst
 
