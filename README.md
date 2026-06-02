@@ -19,7 +19,7 @@ Experienced in Data Analysis, SQL, Python, Power BI, and Advanced Excel. Passion
 ### 🛒 E-Commerce Sales Analysis
 Sales trend analysis and KPI dashboard using Python, SQL, and Power BI.
 
-### 🎇 Diwali Sales Analysis
+### 🪔 Diwali Sales Analysis
 Customer behavior analysis using EDA and data visualization techniques.
 
 ### 👥 HR Analytics Dashboard
