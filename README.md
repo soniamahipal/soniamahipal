@@ -22,7 +22,7 @@ Sales trend analysis and KPI dashboard using Python, SQL, and Power BI.
 ### 🪔 Diwali Sales Analysis
 Customer behavior analysis using EDA and data visualization techniques.
 
-### 👥 HR Analytics Dashboard
+###  HR Analytics Dashboard
 Interactive Power BI dashboard for workforce and HR insights.
 
 ## 📫 Connect
