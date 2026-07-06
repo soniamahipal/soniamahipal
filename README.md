@@ -23,6 +23,7 @@ University of Delhi
 * E-Commerce Sales Analysis
 * Diwali Sales Analysis
 * HR Analytics Dashboard
+* Sales-MIS-Dashboard
 
 ## 📫 Connect
 
