@@ -24,6 +24,7 @@ University of Delhi
 * Diwali Sales Analysis
 * HR Analytics Dashboard
 * Sales-MIS-Dashboard
+* Monthly Sales MIS Dashboard
 
 ## 📫 Connect
 
